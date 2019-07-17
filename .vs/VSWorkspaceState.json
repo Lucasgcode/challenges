@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\store",
+    "\\src\\store\\Dogs"
+  ],
+  "SelectedNode": "\\src\\store\\Dogs\\mutations.js",
+  "PreviewInSolutionExplorer": false
+}
